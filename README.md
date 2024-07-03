@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tommy Tran
-- 👀 I’m interested in Infomation Security and IT
+- 👀 I’m interested in Information Security and IT
 - 🌱 I’m currently learning: Computer Information Systems (CIS)
 - 💞️ I’m looking to collaborate on: TBD
 - 📫 How to reach me: Email {contact at tommy dash tran dot com}
