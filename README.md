@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tommy Tran
+- 👋 Hi, I’m Tommy Tran
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in Information Security and IT
 - ⚡ Fun fact: I'm studying abroad this Fall at KU, South Korea
