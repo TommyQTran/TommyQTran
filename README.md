@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Computer Information Systems (CIS)
 - 📫 How to reach me: Email {contact at tommy dash tran dot com}
 - 🔑 GPG Key (Fingerprint): 845fa2525ad95976b9ccb62b855cc64144b4152b
-- 🌐 Personal Website: https://tommy-wip.com/
+- 🌐 Personal Website: https://portfolio.tommy-wip.com/
 
 
 
