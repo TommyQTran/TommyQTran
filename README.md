@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning: Computer Information Systems (CIS)
 - 🌐 Personal Website: https://portfolio.tommy-wip.com/
 
+- Certifications: CompTIA A+, Net+, Sec+, and ISC2 CC 
+
 
 
 <!---
