@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommy Tran ~ Senior
 - 😄 Pronouns: He/Him
-- 👀 I’m interested in Information Security and IT
+- 👀 I’m interested in Networking and Cybersecurity
 - ⚡ Fun fact: I studied abroad at Korea University, South Korea
 - 🌱 I’m currently learning: Computer Information Systems (CIS)
 - 🌐 Personal Website: https://portfolio.tommy-wip.com/
