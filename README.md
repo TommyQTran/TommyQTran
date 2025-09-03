@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Tommy Tran
+- 👋 Hi, I’m Tommy Tran ~ Senior
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in Information Security and IT
 - ⚡ Fun fact: I studied abroad at Korea University, South Korea
 - 🌱 I’m currently learning: Computer Information Systems (CIS)
-- 📫 How to reach me: Email {contact at tommy dash tran dot com}
-- 🔑 GPG Key (Fingerprint): 845fa2525ad95976b9ccb62b855cc64144b4152b
 - 🌐 Personal Website: https://portfolio.tommy-wip.com/
 
 
